@@ -229,7 +229,7 @@ a {
 
 .profile-frame .photo-placeholder {
   height: 100%;
-  border-radius: 17px;
+  border-radius: 19px;
 }
 
 .orbit {
@@ -475,6 +475,10 @@ a {
   position: relative;
 }
 
+.img {
+  width: 100%;
+}
+
 .project-art > span {
   font-size: 11px;
   color: #ffffffa0;
@@ -491,7 +495,7 @@ a {
   position: absolute;
   right: 25px;
   bottom: -40px;
-  font-size: 140px;
+  font-size: 14px;
   font-style: normal;
   color: #ffffff15;
 }
